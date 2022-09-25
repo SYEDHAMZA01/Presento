@@ -273,8 +273,10 @@ span {
     height: 55px;
     width: 55px;
     background-color: white;
-    left: 42%;
+    left: 0;
+    right: 0;
     top: -26px;
+    margin: 0 auto;
 }
 
 .count-box .count-icon i {
