@@ -344,10 +344,11 @@ span {
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    margin-left: 0;
 }
 
 .tabs .nav-link i {
-    padding-right: 15px !important;
+    padding-right: 15px;
     font-size: 48px;
 }
 
